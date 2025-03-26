@@ -1,6 +1,6 @@
 ### 영화추천 사이트
 
-![제목 없음.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5e6167b6-237a-4402-b81d-b9dbcf9b97e9/제목_없음.png)
+![이미지 설명](./영화추천_사이트.webp)
 
 **설계 혹은 작품 제작과정에서의 시행착오 과정을 기술**
 
